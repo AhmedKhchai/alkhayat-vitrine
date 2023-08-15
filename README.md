@@ -39,3 +39,6 @@ To set up a local development environment:
 4. Run `php artisan key:generate` to generate an application key.
 5. Start the Laravel development server with `php artisan serve`.
 
+
+default._domainkey
+v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0XzniZqG+utNv7xeXGyFBx8DfRMdBTtGZPx8D5rWfw9/4Gt99SoogR6Yx1d97LRX385gI/lcLoRG9x/+JPW3ON6zEqUy3PDMc+3XCI4YRTqlwTqfLGxd4S3W4xAoTaqEDDw65IE0WdDrScUL8BE3weXKkb14QjDHx0YKzDWygXSvFsN3zgdogMT+FNe5rRyZcU+94owCxjp/8XBFLv8Xdn+TEXR3lxs3kr13+JaLL0lpn+yqXqbtfGL9fTXh/HBRca9XNUSUNjd154tNvQgbo3yCXX5lIaCglokZ0PIJJIOVTaTrXssyIQVkBlaFARK8PaWklLyZDK74Hk9QTZKzxQIDAQAB;
